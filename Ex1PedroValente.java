@@ -16,5 +16,6 @@ public class Ex1PedroValente {
 			}
 		}
 		else System.out.println("O numero deve ser entre 0 e 9!");
+		teclado.close();
 	}
 }
